@@ -1,0 +1,3 @@
+docksal-decoupled:
+  root: /var/www/docroot
+  uri: http://docksal-decoupled-starterkit.docksal
